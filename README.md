@@ -13,11 +13,11 @@ This project visualizes and analyzes animal shelter outcomes using data from the
 
 🔍 **Key Features**
 
-✅ KPI cards showing % of animals released and outcome breakdowns
-📈 Line chart tracking monthly release trends
-📊 Bar chart comparing outcome types
-🐶 Breakdown by animal type, age, and sex
-⚠️ Conditional formatting and tooltips to add context
+1. KPI cards showing % of animals released and outcome breakdowns
+2. Line chart tracking monthly release trends
+3. Bar chart comparing outcome types
+4. Breakdown by animal type, age, and sex
+5. Conditional formatting and tooltips to add context
 
 
 🧠 **Data Used**
