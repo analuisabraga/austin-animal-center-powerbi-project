@@ -19,6 +19,9 @@ This project visualizes and analyzes animal shelter outcomes using data from the
 4. Breakdown by animal type, age, and sex
 5. Conditional formatting and tooltips to add context
 
+📷 **Preview**
+<img width="1374" height="768" alt="image" src="https://github.com/user-attachments/assets/a399129a-e14b-447c-a2b6-dff627bad5b4" />
+
 
 🧠 **Data Used**
 
