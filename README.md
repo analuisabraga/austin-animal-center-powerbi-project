@@ -38,4 +38,5 @@ Hover over icons to access tooltips for additional explanations.
 🤝 **Credits**
 
 Data Source: Austin Animal Center Open Data
+
 Dashboard Design Inspo & Learning Resources: Data Pears
